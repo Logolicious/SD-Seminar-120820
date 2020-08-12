@@ -1,0 +1,28 @@
+{
+  "id": "281779ce-6d85-4ef8-b39d-1abd6767bd85",
+  "name": "SD Seminar",
+  "publisher": "D. E. Veloper",
+  "version": "1.0.0.0",
+  "brief": "Seminar Solution",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "target": "Internal",
+  "features": ["TranslationFile"],
+  "contextSensitiveHelpUrl": "https://PeikOpgave.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
